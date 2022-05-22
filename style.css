@@ -1,0 +1,52 @@
+body {
+    background-color: lightskyblue;
+    font-family: cursive;
+    background-image: linear-gradient(to right bottom, red, orange, yellow, rgb(9, 247, 9), rgb(20, 170, 20), rgb(37, 162, 245), blue, rgb(184, 3, 245));
+}
+
+.link-header {
+    background-color: white;
+    border: 4px solid black;
+    color: black ;
+    font-size: 24px;
+    padding: 5px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.link-header:hover {
+    background-image: linear-gradient(to bottom, white, white, blue, red, red);
+}
+
+.link-header:focus {
+    background-color: gold;
+    color: darkblue;
+}
+
+h2 {
+    text-align: center;
+}
+
+li {
+    margin-left: 300px;
+}
+
+li:hover {
+    color: white;
+}
+
+p {
+    margin-left: 300px;
+    font-family: Arial Narrow Bold, cursive;
+}
+
+p:hover {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+.link-text {
+    color: white;
+}
